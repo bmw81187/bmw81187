@@ -3,7 +3,6 @@
 
 Hello! I'm Brittany, a cybersecurity professional focused on Digital Forensics and Incident Response. After transitioning from a legal and investigative career, I've developed hands-on experience with forensic analysis, security tools, and incident response through labs, projects, and certifications. I created this GitHub to document my learning journey, share technical projects, and demonstrate the practical skills I'm building as I pursue a career in DFIR. Thanks for stopping by!
 
-## Objective
 ## Objectives
 
 This GitHub serves as my cybersecurity portfolio, showcasing projects that demonstrate my technical abilities, investigative mindset, and commitment to continuous improvement. My focus is on:
@@ -17,21 +16,7 @@ This GitHub serves as my cybersecurity portfolio, showcasing projects that demon
 
 Each project is designed to strengthen the practical skills required for entry-level DFIR and Security Operations roles while documenting my learning process and professional growth.
 
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
-## Skills
 
 ### Digital Forensics
 
@@ -58,6 +43,7 @@ Each project is designed to strengthen the practical skills required for entry-l
 * Windows
 * Linux
 * Virtual Machines (VMware/VirtualBox)
+
 
 ### Technical Skills
 
