@@ -48,6 +48,7 @@ Each project is designed to strengthen the practical skills required for entry-l
 ### Technical Skills
 
 * Git & GitHub
+* Linux
 * Basic Python
 * Basic PowerShell
 
