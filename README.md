@@ -1,5 +1,5 @@
 # Hello, I'm Brittany
-<a href="https://linkedin.com/brittany-m-walters"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/brittany-m-walters"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hello! I'm Brittany, a cybersecurity professional focused on Digital Forensics and Incident Response. After transitioning from a legal and investigative career, I've developed hands-on experience with forensic analysis, security tools, and incident response through labs, projects, and certifications. I created this GitHub to document my learning journey, share technical projects, and demonstrate the practical skills I'm building as I pursue a career in DFIR. Thanks for stopping by!
 
