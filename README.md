@@ -63,19 +63,17 @@ Each project is designed to strengthen the practical skills required for entry-l
 ## Certifications
 
 ### Cybersecurity & DFIR
-
-* CompTIA Security+
-* GIAC GFACT (Foundations of Cybersecurity)
 * GIAC GSEC (Security Essentials)
+* GIAC GFACT (Foundations of Cybersecurity)
+* CompTIA Security+
 * CompTIA ITF+
 
-### Cloud & IT Foundations
 
+### Cloud & IT Foundations
 * Oracle Cloud Infrastructure (OCI) Foundations Associate
 * AWS Educate: Introduction to Cloud 101
 
 ### Cybersecurity Training Programs
-
 * IBM SkillsBuild: Cybersecurity Fundamentals
 * Google Cybersecurity Certificate (Foundations of Cybersecurity)
 
